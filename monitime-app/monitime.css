@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  width: 90%;
+  margin: auto;
+
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.blog__container {
+  width: 100%;
+  height: 100%;
+  padding: 1rem;
+}
+
+.blog__content {
+  width: 100%;
+  height: auto;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}

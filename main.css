@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 90%;
+  min-height: 100vh;
+  color: #ddd;
+  background-color: #333;
+  font-family: "Prompt", sans-serif;
+
+  margin: auto;
+  padding: 2rem;
+}
+
+p,
+a {
+  font-size: 1.2rem;
+}
+a {
+  text-decoration: none;
+  color: #ddd;
+}
+
+a:hover {
+  color: blue;
+}
+a:visited {
+  color: none;
+}
+
+/* 
+fonts
+font-family: 'Exo 2', sans-serif;
+font-family: 'Prompt', sans-serif;
+font-family: 'Work Sans', sans-serif; */
