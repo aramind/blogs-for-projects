@@ -5,11 +5,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="">
-    <img src="images-readme/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">MONitime</h3>
+<h1 align="center">MONitime</h1>
 
   <p align="center">
     A time tracking web app to help you track your time and optimize your life.
