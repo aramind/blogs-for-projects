@@ -87,6 +87,24 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Usage
+
+## Screenshots
+
+![MONitime](./images-readme/home-page.png)
+![MONitime](./images-readme/login-page.jpg)
+![MONitime](./images-readme/landing-page.png)
+![MONitime](./images-readme/record-page.png)
+![MONitime](./images-readme/charts-page.png)
+![MONitime](./images-readme/summary-page.png)
+![MONitime](./images-readme/update-record.png)
+![MONitime](./images-readme/mobile-home-page.png)
+![MONitime](./images-readme/mobile-add-record-page.png)
+![MONitime](./images-readme/mobile-add-chart-page.png)
+![MONitime](./images-readme/mobile-update-page.png)
+![MONitime](./images-readme/mobile-update-profile-page.png)
+![MONitime](./images-readme/tablet-summary-page.png)
+![MONitime](./images-readme/closing-page.png)
 <!-- ROADMAP -->
 
 ## Future Plans
