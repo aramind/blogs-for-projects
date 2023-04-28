@@ -109,12 +109,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
   On the summary page, users can view calculated summaries depending on the interval they choose.
 
 ### User Menu Options
+  
   In the user menu, accessible by clicking the profile image, the following options are available:
 
   ##### Update Profile Info: 
     - users can update their profile info, including their name, username, and profile image.
+  
   ##### Deactivate Account: 
     - users can deactivate their account if they no longer wish to use the app.
+  
   ##### Log Out: 
     - users can log out of the app to end their current session.
 
