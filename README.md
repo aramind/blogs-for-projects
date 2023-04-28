@@ -32,8 +32,6 @@ MONitime is a time monitoring app allowing users to track their daily activities
 
 ### Built With
 
-- [![React][React.js]][React-url]
-- [![React][React.js]][React-url]
 - [![Modern JS][Modern-JS-badge]][Modern-JS-url]
 - [![React.js][React-js-badge]][React-js-url]
 - [![MaterialUI][Material-UI-badge]][Material-UI-url]
@@ -45,34 +43,38 @@ MONitime is a time monitoring app allowing users to track their daily activities
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project
-locally. To get a local copy up and running follow these simple example steps.
+To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to
-install them.
+Before you begin, make sure you have the following installed on your computer:
 
-- npm
-  ```sh
-  npm install npm@latest -g
-  ```
+Node.js: You can download it from the [official website](https://nodejs.org/). 
+React.js: You can install it by running `npm install -g create-react-app` in your terminal.
+MongoDB: You can download and install it from the official website.
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repository to your local machine
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone ssdfsfsfsfsdf
    ```
-3. Install NPM packages
+2. Install NPM packages in both the client and server folders
    ```sh
+   cd client
+   npm install
+   cd ../server
    npm install
    ```
-4. Enter your API in `config.js`
+3. Start the server by running the following command in the server folder
    ```js
-   const API_KEY = "ENTER YOUR API";
+   npm start
    ```
+4. Start the client by running the following command in the client folder
+  ```js
+   npm start
+   ```
+6. Open your web browser and navigate to http://localhost:3000 to see the application running.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -90,15 +92,11 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 
-## Roadmap
+## Future Plans
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a
-full list of proposed features (and known issues).
+## Known Issues
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,14 +144,11 @@ Project Link:
 
 ## Acknowledgments
 
-- []()
-- []()
-- []()
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 
 [linkedin-shield]:
   https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
