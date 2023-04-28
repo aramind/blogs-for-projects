@@ -112,7 +112,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ![MONitime](./images-readme/summary-page.png)
 **Summary Page:** On the summary page, users can view calculated summaries depending on the interval they choose.
 
-![MONitime](./images-readme/mobile-update-profile-page.png)
+![MONitime](./images-readme/update-profile-page.png)
 
 **User Menu Options:** In the user menu, accessible by clicking the profile image, the following options are available:
    - **Update Profile Info:** users can update their profile info, including their name, username, and profile image.
