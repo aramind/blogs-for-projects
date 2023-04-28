@@ -89,34 +89,35 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Usage
 
-###Account Registration and Login
+### Account Registration and Login
   To use the app, a user account is required. Users can register an account and use their credentials to log in.
 
-###Home Page
+### Home Page
   On the home page, users can view their records for different dates, provided they have logged a record for that date.
 
-###Record Page
+### Record Page
   Clicking the "ADD RECORD" button on the home page will redirect the user to the record page. Here, the user can add, update, and delete records. The following buttons are available for record management:
 
-    "ADD/SUBTRACT": add or subtract a record for the selected date.
-    "RESET": reset all entries of the user for the selected date to zero.
-    "DELETE RECORD": delete all records of the user for the selected date.
+    *ADD/SUBTRACT:* add or subtract a record for the selected date.
+    *RESET:* reset all entries of the user for the selected date to zero.
+    *DELETE RECORD:* delete all records of the user for the selected date.
 
-###Charts Page
+### Charts Page
   On the charts page, users can view their records logged for different dates to compare their time allotments.
 
-###Summary Page
+### Summary Page
   On the summary page, users can view calculated summaries depending on the interval they choose.
 
-###User Menu Options
+### User Menu Options
   In the user menu, accessible by clicking the profile image, the following options are available:
 
-  #####Update Profile Info: 
+  ##### Update Profile Info: 
     - users can update their profile info, including their name, username, and profile image.
-  #####Deactivate Account: 
+  ##### Deactivate Account: 
     - users can deactivate their account if they no longer wish to use the app.
-  #####Log Out: 
+  ##### Log Out: 
     - users can log out of the app to end their current session.
+
     
 ## Screenshots
 
